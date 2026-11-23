@@ -21,7 +21,7 @@ public class TestArithmeticOperators {
 		System.out.println("quotient" + a / b);
 		// remainder
 		System.out.println("remainder" + a % b);
-		System.out.println("main method ended");
+		System.out.println("main ended");
 	}
 
 }
